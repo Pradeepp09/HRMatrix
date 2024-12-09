@@ -27,7 +27,7 @@
 1. **Clone the Repository**:
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/HRMatrix.git
+   git clone https://github.com/Pradeepp09/HRMatrix.git
    ```
 
 2. **Set Up Your Environment**:
