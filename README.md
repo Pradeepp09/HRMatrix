@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### **Contact**
 For questions or suggestions, feel free to reach out:
-- **Email**: yourname@example.com
+- **Email**: pradeepparaskar143@gmail.com
 - **GitHub**: [Pradeepp09](https://github.com/Pradeepp09)
 
 Enjoy using **HRMatrix**!
